@@ -1,0 +1,1 @@
+window.alert("Juan alias \"Maqui\" es el jefe") 
